@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OIouXAW/LSI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lapto\\Desktop\\YomogoMed\\YomogoMed\\services\\medical-records\\MedicalRecords.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lapto\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.3\\microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
+    "C:\\Users\\lapto\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
