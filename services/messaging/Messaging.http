@@ -1,4 +1,4 @@
-@Messaging_HostAddress = http://localhost:5000
+@Messaging_HostAddress = http://localhost:5030
 
 GET {{Messaging_HostAddress}}/weatherforecast/
 Accept: application/json

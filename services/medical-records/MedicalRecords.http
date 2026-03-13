@@ -1,4 +1,4 @@
-@MedicalRecords_HostAddress = http://localhost:5285
+@MedicalRecords_HostAddress = http://localhost:5270
 
 GET {{MedicalRecords_HostAddress}}/weatherforecast/
 Accept: application/json
